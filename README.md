@@ -1,5 +1,5 @@
-I've used ayoosh katuriay(trackAndcount.py) and pyimagesearch(objectCount.py) code together.
-Just run 'trackAndcount.py' 
+I've used ayoosh katuriay(trackAndcount.py) and pyimagesearch(objectCount.py) code together.<br>
+Just run `trackAndcount.py` 
 
 # YOLO_v3_tutorial_from_scratch
 Accompanying code for Paperspace tutorial series ["How to Implement YOLO v3 Object Detector from Scratch"](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
@@ -19,5 +19,5 @@ About when is the training code coming? I have my undergraduate thesis this May,
 Cheers
 
 # Resources
-Ayoosh Katuriya YOLOv3_From_scratch Tutorial
+Ayoosh Katuriya YOLOv3_From_scratch Tutorial <br>
 Object Tracking Tutorial by PyimageSearch 
